@@ -15,5 +15,4 @@ Guide :
   remove --> remove a note
   list --> read all notes
 
-
 Bye bye
